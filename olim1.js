@@ -17,6 +17,6 @@ var myObj = [
 	[
 	 	["Jika <m>x</m> dan <m>y</m> merupakan penyelesaian dari persamaan <m>{xy+\\dfrac{x^3+y^3}3=1985,}</m> maka <m>{x+y=}</m> ....","<m>27</m>","<m>24</m>","<m>14</m>","<m>29</m>","<m>8</m>"],
 		["Jika <m>x</m> dan <m>y</m> merupakan penyelesaian dari persamaan <m>{xy+\\dfrac{x^3+y^3}3=1319,}</m> maka <m>{x+y=}</m> ....","<m>24</m>","<m>27</m>","<m>14</m>","<m>29</m>","<m>8</m>"],
-		[["Jika <m>x</m> dan <m>y</m> merupakan penyelesaian dari persamaan <m>{xy+\\dfrac{x^3+y^3}3=1871,}</m> maka <m>{x+y=}</m> ....","<m>24</m>","<m>27</m>","<m>14</m>","<m>29</m>","<m>8</m>"]
+		["Jika <m>x</m> dan <m>y</m> merupakan penyelesaian dari persamaan <m>{xy+\\dfrac{x^3+y^3}3=1871,}</m> maka <m>{x+y=}</m> ....","<m>24</m>","<m>27</m>","<m>14</m>","<m>29</m>","<m>8</m>"]
 	]
 ]
