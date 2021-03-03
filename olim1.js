@@ -18,5 +18,15 @@ var myObj = [
 	 	["Jika <m>x</m> dan <m>y</m> merupakan penyelesaian dari persamaan <m>{xy+\\dfrac{x^3+y^3}3=1985,}</m> maka <m>{x+y=}</m> ....","<m>27</m>","<m>24</m>","<m>14</m>","<m>29</m>","<m>8</m>"],
 		["Jika <m>x</m> dan <m>y</m> merupakan penyelesaian dari persamaan <m>{xy+\\dfrac{x^3+y^3}3=1319,}</m> maka <m>{x+y=}</m> ....","<m>24</m>","<m>27</m>","<m>14</m>","<m>29</m>","<m>8</m>"],
 		["Jika <m>x</m> dan <m>y</m> merupakan penyelesaian dari persamaan <m>{xy+\\dfrac{x^3+y^3}3=1871,}</m> maka <m>{x+y=}</m> ....","<m>24</m>","<m>27</m>","<m>14</m>","<m>29</m>","<m>8</m>"]
+	],
+	[
+		["Jika <m>{p=\\sqrt[3]{2019+\\sqrt{2019^2-1}}+\\sqrt[3]{2019-\\sqrt{2019^2-1}}+1,} nilai dari <m>{p^3-3p^2}</m> adalah ....","<m>4036</m>","<m>4037</m>","<m>4038</m>","<m>4034</m>","<m>4035</m>"],
+		["Jika <m>{m=\\sqrt[3]{2020+\\sqrt{2020^2-1}}+\\sqrt[3]{2020-\\sqrt{2020^2-1}}+1,} nilai dari <m>{m^3-3m^2}</m> adalah ....","<m>4038</m>","<m>4040</m>","<m>4039</m>","<m>4041</m>","<m>4042</m>"],
+		["Jika <m>{n=\\sqrt[3]{2021+\\sqrt{2021^2-1}}+\\sqrt[3]{2021-\\sqrt{2021^2-1}}+1,} nilai dari <m>{n^3-3n^2}</m> adalah ....","<m>4042</m>","<m>4043</m>","<m>4044</m>","<m>4045</m>","<m>4046</m>"],
+	],
+	[
+		["Diketahui <m>{x+y+z=1}</m> dengan <m>x,</m> <m>y,</m> <m>z</m> bilangan real positif. Nilai minimum dari <m>{\\dfrac1{x+y}+\\dfrac1{y+z}+\\dfrac1{z+x}=}</m> ....","<m>\\dfrac92</m>","<m>\\dfrac94</m>","<m>\\dfrac32</m>","<m>\\dfrac98</m>","<m>\\dfrac9{10}</m>"],
+		["Diketahui <m>{a+b+c=2}</m> dengan <m>a,</m> <m>b,</m> <m>b</m> bilangan real positif. Nilai minimum dari <m>{\\dfrac1{a+b}+\\dfrac1{b+c}+\\dfrac1{c+a}=}</m> ....","<m>\\dfrac94</m>","<m>\\dfrac92</m>","<m>\\dfrac32</m>","<m>\\dfrac98</m>","<m>\\dfrac9{10}</m>"],
+		["Diketahui <m>{p+q+r=3}</m> dengan <m>p,</m> <m>q,</m> <m>r</m> bilangan real positif. Nilai minimum dari <m>{\\dfrac1{p+q}+\\dfrac1{q+r}+\\dfrac1{r+p}=}</m> ....","<m>\\dfrac32</m>","<m>\\dfrac92</m>","<m>\\dfrac94</m>","<m>\\dfrac98</m>","<m>\\dfrac9{10}</m>"]
 	]
 ]
